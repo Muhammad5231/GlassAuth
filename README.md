@@ -53,7 +53,7 @@ This authentications system currently supports the following core operations:
 | Login Screen | Registration Screen |
 |:---:|:---:|
 | *Glassmorphism Login Form* | *User Registration Form* |
-| ![Login UI Placeholder](https://via.placeholder.com/400x300?text=Login+UI) | ![Register UI Placeholder](https://via.placeholder.com/400x300?text=Register+UI) |
+| ![Login UI Placeholder](https://github.com/user-attachments/assets/da1151de-b0aa-4b53-a87a-6193f6f5419e) | ![Register UI Placeholder](https://github.com/user-attachments/assets/968d0aa9-caee-41c9-898a-4fbb28ad7346) |
 
 </div>
 
@@ -192,3 +192,4 @@ res.render('login', { error: "Invalid Username or Password" });
 *Star this repo if you found it useful! ⭐*
 
 </div>
+
