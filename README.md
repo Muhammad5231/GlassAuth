@@ -78,7 +78,7 @@ Follow these steps to run the project locally:
 
 1.  **Clone the Repository**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Muhammad5231/GlassAuth
     ```
 
 2.  **Install Dependencies**
@@ -192,4 +192,5 @@ res.render('login', { error: "Invalid Username or Password" });
 *Star this repo if you found it useful! ⭐*
 
 </div>
+
 
